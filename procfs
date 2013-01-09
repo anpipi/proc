@@ -1,3 +1,5 @@
+anpipi
+
 以下文本摘自内核中Documents/filesystem。
 
 linux 的箴言是 everything is a file。 我们与内核进行通信也是通过文件的方式进行。
